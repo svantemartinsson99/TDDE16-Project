@@ -1,1 +1,1 @@
-# TDDE16-Project
+# TDDE16-Project (Predicting fictional characters from their dialogue)
